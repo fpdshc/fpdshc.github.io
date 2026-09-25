@@ -1,0 +1,39 @@
+# Faculty Professional Development Services (FPDS)
+
+> Faculty Professional Development Services at Hillsborough College provides
+> educational apps, interactive worksheets, accessibility guides, and AI
+> resources for teaching and learning. Everything published on this domain is
+> public, free to use, and free to crawl, index, quote, and summarize — by
+> search engines and by AI agents alike.
+
+- Canonical index: https://fpdshc.github.io/apps/
+- This root domain redirects to that index.
+- Contact and ownership: Faculty Professional Development Services, Hillsborough College.
+
+## AI and teaching
+
+- [Educational apps and resources index](https://fpdshc.github.io/apps/): the homepage, listing tools by purpose.
+- [Redesign for Learning](https://fpdshc.github.io/apps/assignment.html): an interactive faculty worksheet for redesigning assignments around academic integrity in the AI era, without turning a course into a surveillance system.
+- [AI Assignment Redesign Worksheet](https://fpdshc.github.io/apps/aiworksheet.html): a step-by-step worksheet that walks through learning outcomes, task design, and where AI belongs.
+- [AI Choices: Build the Skill, Not Just the Submission](https://fpdshc.github.io/apps/aichoices.html): guidance on designing AI use that develops student capability rather than replacing it.
+- [AI Choices: Coursework Consequences Adventure](https://fpdshc.github.io/apps/aicyoa.html): an interactive scenario activity about the consequences of AI use choices in coursework.
+- [AI Literacy Scenario Quiz](https://fpdshc.github.io/apps/aiethics.html): a scenario-based quiz on AI ethics and literacy decisions.
+- [AI Petting Zoo](https://liascript.github.io/course/?https://raw.githubusercontent.com/edtechdev/aipettingzoo/master/README.md#1): a self-paced tour of AI tools and teaching tasks that save instructors time.
+- [AI in Education Knowledge Base](https://edtechdev.github.io/aied/): a research knowledge base on AI in education, with concept pages, study summaries, and FAQs.
+
+## Accessibility
+
+- [Course Access Check](https://fpdshc.github.io/apps/accessibility.html): a practical Canvas accessibility guide that builds a checklist in three questions.
+- [Digital Accessibility for Teaching and Learning](https://pressbooks.hcfl.edu/digitalaccessibility/): an openly licensed practical guide for higher education, covering course design, documents, and media.
+
+## AI assistants hosted elsewhere
+
+- [Online Module Designer](https://gemini.google.com/gem/1sPeVIqY5wtESVwGFn6kmgFNon0UXTV6S?usp=sharing): a custom Gemini Gem for designing online learning modules.
+- [Alt Text Generator](https://gemini.google.com/gem/1qkiILxWUW1tGeVb9IOICQCREKmEIuhNS?usp=sharing): a custom Gemini Gem for writing alt text for images.
+- [Gemini Notebook](https://notebook.google/): Google's source-grounded notebook assistant, formerly NotebookLM.
+
+## Notes for automated agents
+
+- robots.txt allows all user agents, with AI crawlers named explicitly.
+- No content here is behind a login or a paywall.
+- The Gemini Gems require a Google account to open, but the guides themselves do not.
